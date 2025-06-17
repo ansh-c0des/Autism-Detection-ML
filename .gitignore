@@ -1,0 +1,13 @@
+# Ignore database and model files
+*.db
+*.csv
+*.pkl
+
+# Ignore Jupyter notebook checkpoints (optional)
+.ipynb_checkpoints/
+
+# Ignore .streamlit settings if needed
+.streamlit/
+
+# Ignore VS Code settings (optional)
+.vscode/
