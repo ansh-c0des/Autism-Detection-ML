@@ -40,12 +40,12 @@ This project is an Autism Detection System that uses a Machine Learning model (S
  **7. Consult a Psychologist**
 - City Selection: Users can select their city to find nearby psychologists.
 - Psychologist Profiles: Displays details such as:
-    Specialization
-    Ratings and reviews
-    Contact information
-    Address
-    Appointment Management:
-    Schedule new appointments.
-    Reschedule or cancel existing appointments.
+    - Specialization
+    - Ratings and reviews
+    - Contact information
+    - Address
+    - Appointment Management:
+    - Schedule new appointments.
+    - Reschedule or cancel existing appointments.
 
 ### Contact ansh.d.gala@gmail.com to get the dataset for ML Model
