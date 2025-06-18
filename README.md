@@ -1,4 +1,4 @@
-### Autism Detection System using Machine Learning
+# Autism Detection System using Machine Learning
 
 ## Overview
 This project is an Autism Detection System that uses a Machine Learning model (SVM) to classify whether a child has autism based on questionnaire responses. The system provides a comprehensive web application with multiple features to support autism awareness, detection, and professional consultation.
